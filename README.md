@@ -1,0 +1,1 @@
+This is a resume generator where an user can create his/her portfolio to display on profile page. I have used HTML and CSS to build the front end of this application. To make the applicational functional or for user interaction I have used Javascript.
